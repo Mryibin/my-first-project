@@ -1,0 +1,6 @@
+{
+  "folder": "07_Daily",
+  "format": "YYYY-MM-DD",
+  "template": "06_Templates/模板-每日复盘.md",
+  "autorun": false
+}
