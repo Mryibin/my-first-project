@@ -14,3 +14,6 @@ desktop.ini
 # 临时文件
 *.tmp
 ~$*
+
+# 知乎收藏导入的图片（体积大，仅本地保留，不进 git）
+03_Resources/知乎收藏/**/images/

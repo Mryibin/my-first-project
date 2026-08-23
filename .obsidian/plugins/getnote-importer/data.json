@@ -1,0 +1,40 @@
+{
+  "authMode": "openapi",
+  "openApiToken": "",
+  "openApiClientId": "",
+  "webApiToken": "",
+  "apiToken": "",
+  "clientId": "",
+  "webCsrfToken": "",
+  "folderName": "得到大脑",
+  "filenamePrefix": "",
+  "datePathEnabled": false,
+  "datePathFormat": "YYYY/MM",
+  "datePathCategoryOrigins": {},
+  "datePathAssetMoveEvidence": {},
+  "templateFilePath": "",
+  "maxDays": 30,
+  "syncStartDate": "2026-08-19",
+  "lastSyncEndTimestamp": "",
+  "scheduledSync": {
+    "enabled": false,
+    "intervalMinutes": 30,
+    "syncOnStart": true,
+    "syncKnowledgeBases": []
+  },
+  "reverseSync": {
+    "enabled": false
+  },
+  "attachmentImport": {
+    "image": true,
+    "audio": true,
+    "video": true,
+    "document": true
+  },
+  "ribbonActions": {
+    "sync": true,
+    "search": true
+  },
+  "tagMigrationVersion": 0,
+  "syncHistory": []
+}
