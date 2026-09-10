@@ -5,6 +5,12 @@
 
 ## 最近执行
 
+### 2026-09-10
+- 检查 `00_Inbox/`：共 3 篇笔记，均为知乎剪藏（`tags: clippings`，来源 zhuanlan.zhihu.com），主题 WorkBuddy/Codex 的 Skill 使用技巧（作者：丁小翼 / AI袋鼠帝 / 阿胖AI手记）。
+- 归类动作：3 篇全部移至 `03_Resources/知乎收藏/`（与既有 WorkBuddy/Codex 剪藏笔记同处，文件名无冲突，用 `mv -n` 防覆盖）。
+- 去重：全库（限定 *.md）检索标题关键词与 dashiAI-ppt-skill 无重复。
+- 结论：Inbox 已清空。
+
 ### 2026-09-09
 - 检查 `00_Inbox/`：目录为空（`ls -la` 仅 . / ..，`find -type f` 返回 0）。
 - 无需归类/去重/移动动作，Inbox 保持清空状态。
