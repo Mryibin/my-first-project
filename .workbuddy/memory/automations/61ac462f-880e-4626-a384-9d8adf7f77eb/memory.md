@@ -5,6 +5,14 @@
 
 ## 最近执行
 
+### 2026-09-11
+- 检查 `00_Inbox/`：共 2 篇笔记，均为知乎剪藏（`tags: clippings`）。
+  - 《怎样玩转 Obsidian ？ - 互为螺旋 的回答》— 知乎 question/answer，介绍 Obsidian 入门习惯。
+  - 《说点真心话：2026年想搞钱，究竟什么真正靠谱且赚钱的副业能做？…》— 知乎 zhuanlan/p，副业评测/避坑。
+- 归类动作：两篇全部移至 `03_Resources/知乎收藏/`（与既有剪藏笔记同处，无文件名冲突，`mv -n` 防覆盖）。
+- 去重：未做全库字符串搜索（Grep 对 03_Resources/6800+ 文件超时），但目标目录 `ls` 已确认无同名/同主题笔记，按 frontmatter 标签归类，保守默认未做合并删除。
+- 结论：Inbox 已清空。
+
 ### 2026-09-10
 - 检查 `00_Inbox/`：共 3 篇笔记，均为知乎剪藏（`tags: clippings`，来源 zhuanlan.zhihu.com），主题 WorkBuddy/Codex 的 Skill 使用技巧（作者：丁小翼 / AI袋鼠帝 / 阿胖AI手记）。
 - 归类动作：3 篇全部移至 `03_Resources/知乎收藏/`（与既有 WorkBuddy/Codex 剪藏笔记同处，文件名无冲突，用 `mv -n` 防覆盖）。
